@@ -2,14 +2,14 @@
 
 * [Mobile app documentation](README.md)
 
-## Client App
+## Making the app <a id="making_app"></a>
 
-* [Environment](client-app/setup.md)
-* [Setup the project](client-app/setup-the-project.md)
-* [Rename the app](client-app/rename-the-app.md)
-* [Change app icon](client-app/change-app-icon.md)
-* [Install node dependencies](client-app/install-node-dependencies.md)
-* [Android App](client-app/android.md)
-* [iPhone App](client-app/iphone-app.md)
-* [Client App changelog](client-app/changelog.md)
+* [Environment](making_app/setup.md)
+* [Setup the project](making_app/setup-the-project.md)
+* [Rename the app](making_app/rename-the-app.md)
+* [Change app icon](making_app/change-app-icon.md)
+* [Install node dependencies](making_app/install-node-dependencies.md)
+* [Android App](making_app/android.md)
+* [iPhone App](making_app/iphone-app.md)
+* [Client App changelog](making_app/changelog.md)
 

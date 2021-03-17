@@ -15,7 +15,7 @@ If you face an error at this stage, please send us a [message](https://help.mobi
 ```text
 Operating System:  MAC | Linux | Windows
 Node version: 
-NPM Version: 
+NPM Version:
 ```
 
 To get your version of node run
@@ -25,9 +25,7 @@ node --version
 npm --version
 ```
 
-As a reference look into this video. Watch until  3:55
+As a reference look into this video. Watch until 3:55
 
-{% embed url="https://youtu.be/RuZlzmix5aw?t=184" %}
-
-
+{% embed url="https://youtu.be/RuZlzmix5aw?t=184" caption="" %}
 
