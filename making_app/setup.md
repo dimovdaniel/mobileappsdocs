@@ -23,11 +23,9 @@ In order to make **Android** app you will need
 
 This is [React Native ](https://reactnative.dev/)project.
 
-To setup your computer/environment follow the [Environment setup](https://reactnative.dev/docs/environment-setup) guide by React Native.
+To set up your computer/environment follow the [Environment setup](https://reactnative.dev/docs/environment-setup) guide by React Native.
 
 There, select the React Native CLI QuickStart \( Since this is ejected Expo Project \).
-
-![](https://github.com/dimovdaniel/mobileappsdocs/tree/91b841dcb5e9e967963ccae0ad89e944d23a46ba/.gitbook/assets/cli.png)
 
 {% hint style="danger" %}
 It is recommended to run some test app, from the guides to confirm the environment works ok. You will need to connect Android Device or run Android emulator. It is highly recommended to confirm that your environment is all set up correctly.

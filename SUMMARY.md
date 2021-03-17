@@ -11,5 +11,8 @@
 * [Install node dependencies](making_app/install-node-dependencies.md)
 * [Android App](making_app/android.md)
 * [iPhone App](making_app/iphone-app.md)
-* [Client App changelog](making_app/changelog.md)
+
+## Changelog
+
+* [Apps changelog](changelog/changelog.md)
 

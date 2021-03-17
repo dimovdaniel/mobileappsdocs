@@ -1,4 +1,4 @@
-# Client App changelog
+# Apps changelog
 
 ## 2.0.3 - 2021-03-01
 
