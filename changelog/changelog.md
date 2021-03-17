@@ -1,5 +1,9 @@
 # Apps changelog
 
+## 2.1.0 - 2021-03-18
+
+This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file. 
+
 ## 2.0.3 - 2021-03-01
 
 This is a minor update, with fixes for fix for prices in item description. Here is a list of the [updated files](https://gist.github.com/dimovdaniel/46bfe58ee86acb694d456e1e2153edce).
