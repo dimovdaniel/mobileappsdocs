@@ -31,8 +31,6 @@ There, select the React Native CLI QuickStart \( Since this is ejected Expo Proj
 It is recommended to run some test app, from the guides to confirm the environment works ok. You will need to connect Android Device or run Android emulator. It is highly recommended to confirm that your environment is all set up correctly.
 {% endhint %}
 
-If you think this is complex for you, we can make your iPhone and Android app. Read more [here](https://ftiger.mobidonia.com/).
-
 This is our environment setup, that we do work in
 
 ```text
