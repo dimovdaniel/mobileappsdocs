@@ -11,15 +11,27 @@ There you will find the file **config.js**
 
 Replace the values with your real values, like the ULR link, desired currency. You should have the same values as in your .env file in FoodTiger web.
 
-{% hint style="info" %}
-The most important is to change
+### The things you need to change
 
-**exports.domain** - with your real domain
+{% hint style="success" %}
+**exports.domain** - with your real domain ending in /api/v2   
+  
+example.
 
-**exports.APP\_SECRET** - with the app secret from the .env file from your site
+"exports.domain = "[https://restotiger.com/api/v2](https://restotiger.com/api/v2)";
 {% endhint %}
 
-The same **GOOGLE\_API\_KEY** should be put in android/app/src/main/AndroidManifest.xml
+{% hint style="success" %}
+**exports.LOGO=**"[https://i.imgur.com/cmLH4gY.jpg](https://i.imgur.com/cmLH4gY.jpg)"; -- Link to your logo/icon \( 1024 x 1024 \)
+{% endhint %}
 
+{% hint style="info" %}
+If not vendor app.  
+The same **GOOGLE\_API\_KEY** should be put in **android/app/src/main/AndroidManifest.xml**  
 You can use the same **GOOGLE\_API\_KEY** as in your web project.
+{% endhint %}
+
+
+
+
 

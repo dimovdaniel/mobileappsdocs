@@ -1,4 +1,16 @@
 # Change app icon
 
-There is no real easy/magical way to change the icons. So please look into this [tutorial](https://medium.com/better-programming/react-native-add-app-icons-and-launch-screens-onto-ios-and-android-apps-3bfbc20b7d4c).
+Since v 2.2.0 all you have to do is to enter a link to your logo \( 1024x1024 \) in config.js
+
+ex 
+
+```text
+exports.LOGO="https://i.imgur.com/cmLH4gY.jpg";
+```
+
+Then run. After that, all images will be converted.
+
+```text
+npm run imagex
+```
 
