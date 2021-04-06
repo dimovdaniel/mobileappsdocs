@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mobile app documentation](README.md)
+* [Mobile app documentation.](README.md)
 * [API](api.md)
 
 ## Making the app <a id="making_app"></a>
