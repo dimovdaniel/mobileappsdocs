@@ -11,6 +11,7 @@
 * [Rename the app](making_app/rename-the-app.md)
 * [Install node dependencies](making_app/install-node-dependencies.md)
 * [Change app icon](making_app/change-app-icon.md)
+* [OneSignal Push notification](making_app/onesignal-push-notification.md)
 * [Android App](making_app/android.md)
 * [iPhone App](making_app/iphone-app.md)
 
