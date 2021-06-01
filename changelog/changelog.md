@@ -6,9 +6,9 @@ This is a minor version with some small bug fixes on add to cart button in the C
   
 There is a new Environment variable required
 
-c - android or ios
+**APP\_PLATFORM** - **android** or **ios**
 
-If APP\_PLATFORM is android then app renaming will be done for android in AppCeneter.ms
+If **APP\_PLATFORM** is android then app renaming will be done for android in AppCeneter.ms
 
 Changed files
 
