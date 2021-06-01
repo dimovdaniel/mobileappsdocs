@@ -21,6 +21,7 @@ You need to set two environment variables in AppCenter.ms \( not recorded in the
 ```text
 APP_NAME="My Super Food"
 APP_ID="com.mycomapany.appname"
+APP_PLATFORM="android" -- or "ios"
 ```
 
 ![](../.gitbook/assets/environmat_set.png)
