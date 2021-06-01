@@ -1,5 +1,23 @@
 # Apps changelog
 
+## 2.1.1 - 2021-06-01
+
+This is a minor version with some small bug fixes on add to cart button in the Client app and the way AppCenter.ms is handling the build. The rename package is not working ok in Appcenter.ms for iOS. So that is why you need to do the iOS name change before you publish the repository.   
+  
+There is a new Environment variable required
+
+c - android or ios
+
+If APP\_PLATFORM is android then app renaming will be done for android in AppCeneter.ms
+
+Changed files
+
+screens/Items.js  
+screens/Item.js  
+appcenter-pre-build.sh
+
+
+
 ## 2.1.0 - 2021-03-18
 
 This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file. 
