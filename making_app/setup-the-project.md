@@ -22,7 +22,9 @@ example.
 {% endhint %}
 
 {% hint style="success" %}
-**exports.LOGO=**"[https://i.imgur.com/cmLH4gY.jpg](https://i.imgur.com/cmLH4gY.jpg)"; -- Link to your logo/icon \( 1024 x 1024 \)
+**exports.LOGO=**"https://site.com/image.png"; -- Link to your logo/icon \( 1024 x 1024 \)
+
+IMPORTANT -- THIS NEEDS TO BE .**PNG** image. If you use JPEG the process will resut in error.
 {% endhint %}
 
 {% hint style="info" %}
