@@ -2,18 +2,18 @@
 
 ## 3.0.0 - 2021-08-16
 
-This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file. 
+This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file.
 
-In this update we have removed the Stripe SDK. This SDK was outdated, and google started rejecting apps because of it. 
+In this update we have removed the Stripe SDK. This SDK was outdated, and google started rejecting apps because of it.
 
-This update also uses the latest ReactNative navigation, and expo SDK. 
+This update also uses the latest ReactNative navigation, and expo SDK.
 
-It is important if you use the Client Mobile app, to use the latest version of the FoodTiger web project. Since from this version on, the list of payment methods is returned from the web api. 
+It is important if you use the Client Mobile app, to use the latest version of the FoodTiger web project. Since from this version on, the list of payment methods is returned from the web api.
 
 ## 2.1.1 - 2021-06-01
 
-This is a minor version with some small bug fixes on add to cart button in the Client app and the way AppCenter.ms is handling the build. The rename package is not working ok in Appcenter.ms for iOS. So that is why you need to do the iOS name change before you publish the repository.   
-  
+This is a minor version with some small bug fixes on add to cart button in the Client app and the way AppCenter.ms is handling the build. The rename package is not working ok in Appcenter.ms for iOS. So that is why you need to do the iOS name change before you publish the repository.
+
 There is a new Environment variable required
 
 **APP\_PLATFORM** - **android** or **ios**
@@ -26,11 +26,9 @@ screens/Items.js
 screens/Item.js  
 appcenter-pre-build.sh
 
-
-
 ## 2.1.0 - 2021-03-18
 
-This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file. 
+This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file.
 
 ## 2.0.3 - 2021-03-01
 

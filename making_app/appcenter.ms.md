@@ -19,6 +19,7 @@ You need to set two environment variables in AppCenter.ms \( not recorded in the
 {% endhint %}
 
 ```text
+APP_TYPE          client , driver or vendor
 APP_NAME          My Super Foo
 APP_ID            com.mycomapany.appname
 APP_PLATFORM      android or ios
