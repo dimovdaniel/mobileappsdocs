@@ -1,5 +1,17 @@
 # Apps changelog
 
+## 3.2.0 - 2022-03-03
+
+This is another major change to the mobile app.&#x20;
+
+Before they were using Expo bare workflow and was really difficult to cofigure and publish the app. &#x20;
+
+We moved to expo managed workflow. This makes the building and submiting process so much easier.  We have removed Onesignal native SDK, and instead we use Expo Push notifications.
+
+Mobile apps are compatible with older versions of the web project, but in order to have expo push, you need web version 3.2.0+
+
+
+
 ## 3.0.0 - 2021-08-16
 
 This is a major update. We have changes more files, so it is recommended to download the new source code and use your can reuse your old config.json file.
@@ -22,8 +34,8 @@ If **APP\_PLATFORM** is android then app renaming will be done for android in Ap
 
 Changed files
 
-screens/Items.js  
-screens/Item.js  
+screens/Items.js\
+screens/Item.js\
 appcenter-pre-build.sh
 
 ## 2.1.0 - 2021-03-18
@@ -34,7 +46,7 @@ This is a major update. We have changes more files, so it is recommended to down
 
 This is a minor update, with fixes for fix for prices in item description. Here is a list of the [updated files](https://gist.github.com/dimovdaniel/46bfe58ee86acb694d456e1e2153edce).
 
-To update, either use the new files from CodeCanyon or copy-paste the new/updated files. \( Only screens/Item.js \)
+To update, either use the new files from CodeCanyon or copy-paste the new/updated files. ( Only screens/Item.js )
 
 [https://gist.github.com/dimovdaniel/46bfe58ee86acb694d456e1e2153edce](https://gist.github.com/dimovdaniel/46bfe58ee86acb694d456e1e2153edce)
 
@@ -48,7 +60,7 @@ To update, either use the new files from CodeCanyon or copy-paste the new/update
 
 This is a minor update, with fixes for android build only. Here is a list of the [updated files](https://gist.github.com/dimovdaniel/3ba74ff31d44db3b3813ad119079d881).
 
-To update, either use the new files from CodeCanyon or copy-paste the new/updated files.  
+To update, either use the new files from CodeCanyon or copy-paste the new/updated files.\
 Remove the node\_modules and reinstall again.
 
 ## 2.0.0 - 2021-01-22
@@ -75,11 +87,10 @@ In order to update, we recommend starting from scratch. You can reuse your old i
 
 ### Fixed
 
-* Fixed ios build 
+* Fixed ios build&#x20;
 
 ## 1.2.0 - 2020-05-26
 
 ### Initial
 
 * Initial version
-

@@ -2,9 +2,9 @@
 description: Project API endpoints
 ---
 
-# API
+# 🚦 API
 
-## Vendor API 
+## Vendor API&#x20;
 
 You can find the Vendor API documentation and examples on the following link.
 
@@ -23,8 +23,6 @@ You can find the Customer API documentation and examples on the following link.
 You can find the Driver API documentation and examples on the following link.
 
 {% embed url="https://documenter.getpostman.com/view/8538142/TWDWJwwj" %}
-
-
 
 
 
