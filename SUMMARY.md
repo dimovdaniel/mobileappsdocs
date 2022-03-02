@@ -3,7 +3,7 @@
 * [Mobile app documentation.](README.md)
 * [🚦 API](api.md)
 
-## 📱 Make app
+## Make app
 
 * [⚙ Setup the project](make-app/setup-the-project.md)
 * [🕹 Run project locally](make-app/run-project-locally.md)
@@ -11,4 +11,4 @@
 
 ## Changelog
 
-* [Apps changelog](changelog/changelog.md)
+* [📅 Apps changelog](changelog/changelog.md)
