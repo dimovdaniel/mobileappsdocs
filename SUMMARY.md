@@ -15,11 +15,12 @@
 * [Android App](making\_app/android.md)
 * [iPhone App](making\_app/iphone-app.md)
 
+## 📱 Make app
+
+* [⚙ Setup the project](make-app/setup-the-project.md)
+* [🕹 Run project locally](make-app/run-project-locally.md)
+* [🚀 Deploy app](make-app/deploy-app.md)
+
 ## Changelog
 
 * [Apps changelog](changelog/changelog.md)
-
-## 📱 Make app ( expo )
-
-* [Setup the project](make-app-expo/setup-the-project.md)
-* [Page 1](make-app-expo/page-1.md)
