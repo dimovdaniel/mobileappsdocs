@@ -1,4 +1,4 @@
-# Apps changelog
+# 📅 Apps changelog
 
 ## 3.2.0 - 2022-03-03
 
@@ -8,7 +8,15 @@ Before they were using Expo bare workflow and was really difficult to cofigure a
 
 We moved to expo managed workflow. This makes the building and submiting process so much easier.  We have removed Onesignal native SDK, and instead we use Expo Push notifications.
 
-Mobile apps are compatible with older versions of the web project, but in order to have expo push, you need web version 3.2.0+
+Mobile apps are compatible with older versions of the web project, but in order to have expo push, you need web version 3.2.0+&#x20;
+
+**How to update your previous app.**
+
+In case you already have working mobile  app code, there is no much to reuse. But the setup in config.js is  relativly simple. ( don't do copy paste  of config.js since format is changed now )
+
+**If you already have an app on google play and the app store**
+
+In that case, you need to enter the same bundle identifier (iOS)  / package name (android) and use your local keystore (  android ).&#x20;
 
 
 
