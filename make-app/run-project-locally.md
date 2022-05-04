@@ -7,10 +7,10 @@ To install  Expo, you can follow their offical docs [here](https://docs.expo.dev
 In general, if you have node installed, just run this.&#x20;
 
 ```
-yarn install --global expo-cli
+npm install --global expo-cli
 ```
 
-### Installl project node dependencies
+### Install project node dependencies
 
 Navigate to your project and run
 
