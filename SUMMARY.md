@@ -13,3 +13,4 @@
 ## Changelog
 
 * [📅 Apps changelog](changelog/changelog.md)
+* [🆕 Download new updates](changelog/download-new-updates.md)
