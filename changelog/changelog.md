@@ -1,5 +1,15 @@
 # 📅 Apps changelog
 
+## 3.5.0
+
+In this version you have the option to deactive user account diorectly from the mobile app.&#x20;
+
+There are also some other small bug fixes and versions bumps.&#x20;
+
+**Update files**
+
+![](../.gitbook/assets/mobile\_app\_3\_5.png)
+
 ## 3.2.0 - 2022-03-03
 
 This is another major change to the mobile app.&#x20;
