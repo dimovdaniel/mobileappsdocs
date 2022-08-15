@@ -1,6 +1,6 @@
 # 🕹 Run project locally
 
-### Install [expo](https://expo.dev)
+### Install [expo](https://expo.dev/)
 
 To install  Expo, you can follow their offical docs [here](https://docs.expo.dev/get-started/installation/).&#x20;
 

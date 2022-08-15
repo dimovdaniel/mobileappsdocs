@@ -5,7 +5,7 @@ description: To define it as your own project
 # ⚙ Setup the project
 
 Download the app source code from CodeCanyon and extract it.\
-Open the source code in your favorite text/code editor. We suggest [Visual Studio Code](https://code.visualstudio.com).
+Open the source code in your favorite text/code editor. We suggest [Visual Studio Code](https://code.visualstudio.com/).
 
 ### **Config.js**
 
