@@ -1,10 +1,10 @@
 # 📅 Apps changelog
 
-## 3.5.0
+## 3.5.0 - 2022-08-15
 
-In this version you have the option to deactive user account diorectly from the mobile app.&#x20;
+In this version, you have the option to deactivate user account directly from the mobile app.&#x20;
 
-There are also some other small bug fixes and versions bumps.&#x20;
+There are also some other small bug fixes and version bumps.&#x20;
 
 **Update files**
 
