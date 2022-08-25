@@ -1,5 +1,17 @@
 # 📅 Apps changelog
 
+## 3.6.0 - 2022-08-25
+
+In this version we have updated the mobile app code to use expo 46 (the latest at the moment).&#x20;
+
+We did that because, in expo 44, apps are compiled with android SDK 30, and google now requires android SDK 31.&#x20;
+
+We had to use a new module for the Toast, so now the toast notification will look a bit better.&#x20;
+
+In order to update from 3.5.0 we will suggest starting fresh with the new source code and copying the existing config.js and app.json content and the resources you have in the assets folder.
+
+<figure><img src="../.gitbook/assets/CleanShot 2022-08-25 at 17.58.35.png" alt=""><figcaption></figcaption></figure>
+
 ## 3.5.0 - 2022-08-15
 
 In this version, you have the option to deactivate user account directly from the mobile app.&#x20;
