@@ -1,5 +1,30 @@
 # 📅 Apps changelog
 
+## 3.6.1 - 2022-11-12 - WhatsApp Taxi App update
+
+This is a small update only for WhatsApp Driver Taxi App.&#x20;
+
+It brings the possibility to send live tracking links to the client
+
+Add the message in /constants/Language.js
+
+```
+message_when_approved_tracking: "Here, You can track my current location here ->",
+```
+
+The only change is in  /screens/OrderDetails.js around line 247
+
+```javascript
+if(issd){
+   var approveMessage=Language.message_when_approved;
+   //Append the location tracking option
+   approveMessage+="\n\n"+Language.message_when_approved_tracking+"\n\n"+config.domain+"/l/"+order.md;
+   sendWhatsAppMessage(approveMessage);
+}
+```
+
+{% embed url="https://share.cleanshot.com/XvTS2p" %}
+
 ## 3.6.0 - 2022-08-25
 
 In this version we have updated the mobile app code to use expo 46 (the latest at the moment).&#x20;
