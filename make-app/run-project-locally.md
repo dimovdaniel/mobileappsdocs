@@ -1,4 +1,4 @@
-# 🕹 Run project locally
+# 🕹️ Run project locally
 
 ### Install [expo](https://expo.dev/)
 
@@ -25,8 +25,8 @@ This will install all the needed node dependencies
 Execute
 
 ```
-expo start
+npx expo start
 ```
 
-This will start local expo server, and you are ready to test the app on simulator, or on your device via Expo Go app ( [https://expo.dev/client](https://expo.dev/client) ).&#x20;
+This will start local expo server, and you are ready to test the app on simulator, or on your device via Expo Go app.
 
