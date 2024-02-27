@@ -10,15 +10,13 @@ Once you are ready on how you app works you are ready to publish it. This proces
 
 Execute&#x20;
 
-```
-expo doctor
-```
+<pre><code><strong>npx expo doctor
+</strong></code></pre>
 
 If there are problems
 
-```
-expo doctor --fix-dependencies
-```
+<pre><code><strong>npx expo doctor --fix-dependencies
+</strong></code></pre>
 
 ### Create build
 
