@@ -1,5 +1,13 @@
 # 📅 Apps changelog
 
+## 4.0.0 - 2024-02-27 - Expo SDK 50
+
+This is an update to keep up to date with latest [expo SDK 50](https://expo.dev/changelog/2024/01-18-sdk-50), fixes in the push notifications and location.
+
+In order to update from 3.6.X we will suggest starting fresh with the new source code and copying the existing config.js and app.json content and the resources you have in the assets folder.
+
+<figure><img src="../.gitbook/assets/CleanShot 2024-02-27 at 19.32.58@2x.png" alt=""><figcaption></figcaption></figure>
+
 ## 3.6.1 - 2022-11-12 - WhatsApp Taxi App update
 
 This is a small update only for WhatsApp Driver Taxi App.&#x20;

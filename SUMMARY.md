@@ -6,8 +6,8 @@
 ## Make app
 
 * [📺 Video](make-app/video.md)
-* [⚙ Setup the project](make-app/setup-the-project.md)
-* [🕹 Run project locally](make-app/run-project-locally.md)
+* [⚙️ Setup the project](make-app/setup-the-project.md)
+* [🕹️ Run project locally](make-app/run-project-locally.md)
 * [🚀 Deploy app](make-app/deploy-app.md)
 * [📲 Push notification](make-app/push-notification.md)
 
